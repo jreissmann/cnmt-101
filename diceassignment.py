@@ -33,3 +33,6 @@ for rolls in range (dice_rolls):
 
 # once for loop is done, print finished rolling
 print ('Finished rolling')
+
+# source: https://www.youtube.com/watch?v=bsIYU_q5g7Y
+# git repo: https://github.com/jreissmann/cnmt-101/blob/main/diceassignment.py
